@@ -69,6 +69,9 @@ params:
     URL: "#"
 menu:
   main:
+  - url: "/images/masonary-post/post-9.jpg"
+    name: Test image
+    weight: 3
   - URL: about
     name: About
     weight: 1
